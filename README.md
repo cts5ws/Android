@@ -11,4 +11,4 @@ Multiple Types of Quizes
 Custom/Cleaner Graphics
 Better transitions (more professional looking)
 
-.java files under the src/main path
+.java files under the Android/BinaryClockApp/app/src/main path
